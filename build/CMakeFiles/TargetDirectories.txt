@@ -1,0 +1,9 @@
+/Users/kevin/repos/learnOpenGL/build/CMakeFiles/install/local.dir
+/Users/kevin/repos/learnOpenGL/build/CMakeFiles/install/strip.dir
+/Users/kevin/repos/learnOpenGL/build/CMakeFiles/install.dir
+/Users/kevin/repos/learnOpenGL/build/CMakeFiles/list_install_components.dir
+/Users/kevin/repos/learnOpenGL/build/CMakeFiles/package_source.dir
+/Users/kevin/repos/learnOpenGL/build/CMakeFiles/rebuild_cache.dir
+/Users/kevin/repos/learnOpenGL/build/CMakeFiles/edit_cache.dir
+/Users/kevin/repos/learnOpenGL/build/CMakeFiles/package.dir
+/Users/kevin/repos/learnOpenGL/build/CMakeFiles/sdl2_demo.dir

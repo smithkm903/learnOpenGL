@@ -2,12 +2,12 @@
 
 ## Initialize variables
 SRC_DIR = src
-BUILD_DIR = build/debug
+BUILD_DIR = build
 CC = g++
 #Compiler I will use
 SRC_FILES = $(wildcard $(SRC_DIR)/*.cpp)
 #selects all the files within the SRC_DIR directory
-OBJ_NAME = play #Object name for the executable file (can change this name)
+OBJ_NAME = sdl2_demo #Object name for the executable file (can change this name)
 #include paths to inform the compiler
 INCLUDE_PATHS = -Iinclude
 LIBRARY_PATHS = -Llib
