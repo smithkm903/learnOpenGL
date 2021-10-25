@@ -10,7 +10,7 @@
             "type": "lldb",
             //"type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/debug/play",
+            "program": "${workspaceFolder}/build/sdl2_demo",
             //"program": "${fileDirname}/${fileBasenameNoExtension}",
             "args": [],
             "stopAtEntry": false,
