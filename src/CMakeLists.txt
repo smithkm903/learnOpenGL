@@ -7,3 +7,5 @@ add_executable(sdl2_demo main.cpp)
 
 install (TARGETS sdl2_demo DESTINATION build)
 
+target_link_libraries(sdl2_demo SDL2main SDL2)
+
