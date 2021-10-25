@@ -1,8 +1,11 @@
 #include <iostream>
+//#include <SDL2/SDL.h>
 
-int main (){
+int main ()
+{
     std::string greetings = "Hello SDL2!";
     std::cout << greetings << std::endl;
 
-return EXIT_SUCCESS;
+    //Close SDL library to clean up memory resources
+    return EXIT_SUCCESS;
 }
